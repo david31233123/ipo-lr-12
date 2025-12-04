@@ -1,3 +1,4 @@
+#Вариант 1
 import json
 import os
 import re
@@ -354,4 +355,5 @@ def build_gui():
 
 
 if __name__ == "__main__":
+
     build_gui()
